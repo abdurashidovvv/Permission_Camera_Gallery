@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Permission_Camera_Gallery</string>
+
+
+    -<style name="popupBGStyle" parent="Widget.MaterialComponents.PopupMenu">
+
+    <item name="android:popupBackground">@drawable/menu_background</item>
+
+</style>
+
+    <style name="popupBGStyle1" parent="Widget.MaterialComponents.PopupMenu">
+
+    <item name="android:popupBackground">@drawable/menu_background</item>
+
+
+    <item name="popupMenuStyle">@drawable/menu_background</item>
+
+    </style>
+
+</resources>
